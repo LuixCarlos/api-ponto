@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/LuixCarlos/api-ponto.svg?branch=master)](https://travis-ci.org/LuixCarlos/api-ponto)
 # Api Ponto
 API do sistema de ponto com Java e Spring Boot.
 
